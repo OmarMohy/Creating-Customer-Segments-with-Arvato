@@ -1,2 +1,2 @@
-# Creating-Customer-Segments-with-Arvato
-Udacity's Machine Learning Nanodegree Project 3
+# Project: Identify Customer Segments
+In this project, unsupervised learning techniques is applied to identify segments of the population that form the core customer base for a mail-order sales company in Germany. These segments can then be used to direct marketing campaigns towards audiences that will have the highest expected rate of returns. The data that is used had been provided by Udacity's partners at Bertelsmann Arvato Analytics, and represents a real-life data science task.
